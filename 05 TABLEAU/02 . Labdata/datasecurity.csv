@@ -1,0 +1,9 @@
+﻿USERNAME,PASSWORD,DISPLAY NAME,LICENSE LEVEL,ADMINISTRATOR LEVEL,PUBLISHER PERMISSIONS,EMAIL ADDRESS
+michellek,RRitec123,01 Michelle Kim Server Admin,Interactor,System,yes,michellek@example.com
+alanw,RRitec123,02 Alan Wang Site Admin,Interactor,Site,yes,alanw@example.com
+henryw,RRitec123,03 Henry Wilson Pblisher,Interactor,None,yes,henryw@example.com
+Ram,RRitec123,04 Ram Reddy Interactor,Interactor,None,no,dwramreddy@gmail.com
+Geetham,RRitec123,05 Geetham Reddy Viewer can pblish,Viewer,None,yes,geethamreddy@gmail.com
+Geethika,RRitec123,06 Geethika Reddy Viewer,Viewer,None,no,geethikareddy@gmail.com
+rritec,RRitec123,07 rritec Unlicensed can publish,Unlicensed,None,yes,rritec@gmail.com
+tharun,RRitec123,08 tharun Kumar Reddy Unlicensed,Unlicensed,None,no,tharun00@gmail.com
