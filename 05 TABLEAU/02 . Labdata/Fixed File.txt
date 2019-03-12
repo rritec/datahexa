@@ -1,3 +1,0 @@
-empno     ename   sal       
-101       ram     1000      
-102       reddy   2000      
