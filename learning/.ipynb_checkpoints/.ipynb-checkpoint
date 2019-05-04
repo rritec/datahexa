@@ -4,31 +4,7 @@
    "cell_type": "markdown",
    "metadata": {},
    "source": [
-    "# Hi This is Bilal Ahmad"
-   ]
-  },
-  {
-   "cell_type": "markdown",
-   "metadata": {},
-   "source": [
-    "## I am here to learn Data Science."
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": 1,
-   "metadata": {},
-   "outputs": [
-    {
-     "name": "stdout",
-     "output_type": "stream",
-     "text": [
-      "Let's do it\n"
-     ]
-    }
-   ],
-   "source": [
-    "print(\"Let's do it\")"
+    "## Hello"
    ]
   },
   {
@@ -55,7 +31,7 @@
    "name": "python",
    "nbconvert_exporter": "python",
    "pygments_lexer": "ipython3",
-   "version": "3.6.5"
+   "version": "3.7.3"
   }
  },
  "nbformat": 4,
